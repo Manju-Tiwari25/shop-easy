@@ -1,6 +1,6 @@
 # ShopEasy
 
-**Live demo:** https://your-link.vercel.app
+**Live demo:** https://shop-easy-ten-liart.vercel.app/
 
 A mini online store built with React as a learning project.
 
